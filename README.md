@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align ="right" src = "https://cdn.shopify.com/s/files/1/0051/4802/products/stickers_octocat_large.png?v=1520903827" width="150" height="150">
+Hi!👋<br />
+“Learning never exhausts the mind.” – Leonardo da Vinci <br />
+👨‍💻Let's Learn and grow<br />
+ 📫Connect me here:<br />
+ <br />
+ <p>
+  <a href="https://www.linkedin.com/in/ritbikbharti/">
+    <img src="https://img.shields.io/badge/ritbik%20bharti-blue?style=flat&logo=linkedin">
+  </a> &nbsp; 
+  <a href="https://twitter.com/ritbikbharti">
+    <img src="https://img.shields.io/badge/@ritbikbharti-30302f?style=flat&logo=twitter">
+  </a>
+ <a href="https://medium.com/@ritbikbharti">
+    <img src="https://img.shields.io/badge/ritbikbharti-30302f?style=flat&logo=medium">
+  </a>
+</p>
 
-<!--
-**ritbikbharti/ritbikbharti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cheers!
