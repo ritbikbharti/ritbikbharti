@@ -28,6 +28,19 @@
 <br/>
 <br/>
 
+*Languages and Tools:*<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+<a href="https://github.com/ritbikbharti">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritbikbharti&show_icons=true&theme=dark&line_height=27" alt="Ritbik's github stats"/>
+</a>
+
+<br>
+
 <p>
   <a href="https://www.linkedin.com/in/ritbikbharti/">
     <img src="https://img.shields.io/badge/ritbik%20bharti-blue?style=flat&logo=linkedin">
