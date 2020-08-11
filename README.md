@@ -36,9 +36,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 <a href="https://github.com/ritbikbharti">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritbikbharti&show_icons=true&theme=dark&line_height=27" alt="Ritbik's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritbikbharti&show_icons=true&theme=default&line_height=27" alt="Ritbik's github stats"/>
 </a>
 
 <br>
-
-Cheers!
