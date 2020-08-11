@@ -1,6 +1,6 @@
 <img align ="right" src = "https://cdn.shopify.com/s/files/1/0051/4802/products/stickers_octocat_large.png?v=1520903827" width="150" height="150">
 
-![GitHub](https://img.shields.io/github/license/ritbikbharti/ritbikbharti?style=flat)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![ViewCount](https://komarev.com/ghpvc/?username=ritbikbharti&label=Views&color=blue&style=plastic")
 
 ## Hi, I'm [Ritbik Bharti!](https://ritbikbharti.netlify.app) 👋
