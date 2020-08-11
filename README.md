@@ -1,8 +1,9 @@
 <img align ="right" src = "https://cdn.shopify.com/s/files/1/0051/4802/products/stickers_octocat_large.png?v=1520903827" width="150" height="150">
 
+![GitHub](https://img.shields.io/github/license/ritbikbharti/ritbikbharti?style=flat)
+![ViewCount](https://komarev.com/ghpvc/?username=ritbikbharti&label=Views&color=blue&style=plastic")
+
 ## Hi, I'm [Ritbik Bharti!](https://ritbikbharti.netlify.app) 👋
-“Learning never exhausts the mind.” – Leonardo da Vinci <br />
-👨‍💻Let's Learn and grow<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritbikbharti&label=Views&color=blue&style=plastic" alt="ritbikbharti" /> </p>
 
@@ -40,3 +41,13 @@
 </a>
 
 <br>
+
+**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
+
+<hr \>
+<p align="center">
+   <i>“Learning never exhausts the mind.” – Leonardo da Vinci </i>
+   <br>
+   <i>👨‍💻Let's Learn and grow</i>
+</p>       
+ 
