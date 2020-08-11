@@ -5,8 +5,6 @@
 
 ## Hi, I'm [Ritbik Bharti!](https://ritbikbharti.netlify.app) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritbikbharti&label=Views&color=blue&style=plastic" alt="ritbikbharti" /> </p>
-
 <a href="https://linkedin.com/in/ritbikbharti">
   <img align="left" alt="Ritbik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
