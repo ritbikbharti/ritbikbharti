@@ -36,7 +36,6 @@
 
 <p>
 <a href="https://github.com/ritbikbharti">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritbikbharti&show_icons=true&theme=default&line_height=27" alt="My Github stats"/>
 </a>
 </p>
 
@@ -51,3 +50,6 @@
    <i>👨‍💻Let's Learn and grow</i>
 </p>       
  
+<p align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+</p>
