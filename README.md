@@ -1,6 +1,6 @@
 <img align ="right" src = "https://cdn.shopify.com/s/files/1/0051/4802/products/stickers_octocat_large.png?v=1520903827" width="150" height="150">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ritbikbharti/ritbikbharti/blob/master/LICENSE.md)
 ![ViewCount](https://komarev.com/ghpvc/?username=ritbikbharti&label=Views&color=blue&style=plastic")
 
 ## Hi, I'm [Ritbik Bharti!](https://ritbikbharti.netlify.app) 👋
@@ -36,9 +36,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
+<p>
 <a href="https://github.com/ritbikbharti">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritbikbharti&show_icons=true&theme=default&line_height=27" alt="Ritbik's github stats"/>
 </a>
+</p>
 
 <br>
 
