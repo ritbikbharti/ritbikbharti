@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ritbikbharti/ritbikbharti/blob/master/LICENSE.md)
 ![ViewCount](https://komarev.com/ghpvc/?username=ritbikbharti&label=Views&color=blue&style=plastic")
 
-## Hi, I'm [Ritbik Bharti!](https://ritbikbharti.netlify.app) 👋
+<h1>Hey there 👋! Glad to see you here :heart:</h1>
+<h3>I'm a computer science student having interests in web and mobile app development and networks :star_struck:</h3>
 
 <a href="https://linkedin.com/in/ritbikbharti">
   <img align="left" alt="Ritbik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -45,12 +46,3 @@
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 
 <hr \>
-<p align="center">
-   <i>“Learning never exhausts the mind.” – Leonardo da Vinci </i>
-   <br>
-   <i>👨‍💻Let's Learn and grow</i>
-</p>       
- 
-<p align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-</p>
