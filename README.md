@@ -4,7 +4,6 @@
 ![ViewCount](https://komarev.com/ghpvc/?username=ritbikbharti&label=Views&color=blue&style=plastic")
 
 <h1>Hey there 👋! Glad to see you here :heart:</h1>
-<h3>I'm a computer science student having interests in web and mobile app development and networks :star_struck:</h3>
 
 <a href="https://linkedin.com/in/ritbikbharti">
   <img align="left" alt="Ritbik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
