@@ -27,12 +27,6 @@
 <br/>
 <br/>
 
-<p>
-<a href="https://github.com/ritbikbharti">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritbikbharti&show_icons=true&theme=default&line_height=27" alt="My Github stats"/>
-</a>
-</p>
-
 <br>
 
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
