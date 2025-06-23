@@ -11,17 +11,8 @@
 <a href="https://www.github.com/ritbikbharti">
   <img align="left" alt="Ritbik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/ritbikbharti/">
-  <img align="left" alt="Ritbik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/ritbikbharti/">
-  <img align="left" alt="Ritbik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://www.x.xom/ritbikbharti">
   <img align="left" alt="Ritbik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.12.1/icons/x.svg" />
-</a>
-<a href="https://t.me/ritbikbharti">
-  <img align="left" alt="Ritbik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <br/>
